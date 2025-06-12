@@ -1,0 +1,2 @@
+Accuracy,Precision,Recall,F1 Score,ROC AUC,Training Time (s),Prediction Time (s)
+0.713,0.784,0.588,0.672,0.7513500000000001,2.9109153747558594,0.1222238540649414
